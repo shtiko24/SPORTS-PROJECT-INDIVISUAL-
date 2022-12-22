@@ -1,9 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fmethods-statistical-data-analysis-cartoon-flat-vector-25027292&psig=AOvVaw0QCm1vcuz6GfpBC7MxT_aN&ust=1671776476971000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCwyerKjPwCFQAAAAAdAAAAABAE)
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.dreamstime.com/colorful-data-analysis-research-vector-line-illustration-dark-background-colorful-data-analysis-vector-illustration-image106580073)
 <h1 align="center">Hi 👋, I'm SHWETA S. TIKOTKAR</h1>
 <h3 align="center">A passionate DATA ANALYST from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprathamsoftware.wixsite.com%2Fprathamsoftware%2Fpost%2Fbenefits-of-creating-a-data-based-culture&psig=AOvVaw1X9mm3m4rWGINBdklGzYYQ&ust=1671773970876000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIDa2cDBjPwCFQAAAAAdAAAAABAE")
-
+(img align="right" alt="Coding" width="400" src="https://prathamsoftware.wixsite.com/prathamsoftware/post/benefits-of-creating-a-data-based-culture")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetatikotkar&label=Profile%20views&color=0e75b6&style=flat" alt="shwetatikotkar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shwetatikotkar" target="blank"><img src="https://img.shields.io/twitter/follow/shwetatikotkar?logo=twitter&style=for-the-badge" alt="shwetatikotkar" /></a> </p>
@@ -12,15 +10,15 @@
 
 - 🌱 I’m currently learning **TABLEAU , PYTHON ,SQL, EXCEL**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/shweta-s-tikotkar-6598b415b/](https://www.linkedin.com/in/shweta-s-tikotkar-6598b415b/)
+- 👨‍💻 All of my projects are available at [https://www.naukri.com/mnjuser/profile?id=&orgn=homepage](https://www.naukri.com/mnjuser/profile?id=&orgn=homepage)
 
-- 💬 Ask me about **SQL, EXCEL**
+- 💬 Ask me about **TABLEAU, SQL, EXCEL**
 
 - 📫 How to reach me **SHTIKO93@GMAIL.COM**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/shweta-s-tikotkar-6598b415b/](https://www.linkedin.com/in/shweta-s-tikotkar-6598b415b/)
 
-- ⚡ Fun fact **Im a organised person, entusiast**
+- ⚡ Fun fact **Im a organised person, enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
