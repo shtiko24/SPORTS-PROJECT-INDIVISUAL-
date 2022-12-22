@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://cdn3.vectorstock.com/i/1000x1000/72/92/methods-statistical-data-analysis-cartoon-flat-vector-25027292.jpg)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fmethods-statistical-data-analysis-cartoon-flat-vector-25027292&psig=AOvVaw0QCm1vcuz6GfpBC7MxT_aN&ust=1671776476971000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCwyerKjPwCFQAAAAAdAAAAABAE)
 
 <h1 align="center">Hi 👋, I'm SHWETA S. TIKOTKAR</h1>
 <h3 align="center">A passionate DATA ANALYST from India</h3>
@@ -32,6 +32,3 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shwetatikotkar&show_icons=true&locale=en&layout=compact" alt="shwetatikotkar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetatikotkar&show_icons=true&locale=en" alt="shwetatikotkar" /></p>
